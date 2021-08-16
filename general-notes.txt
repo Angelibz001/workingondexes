@@ -1,0 +1,10 @@
+-Learn about ERC20 token standard 
+1. https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/ERC20.sol //to see ERC20 contract
+https://eips.ethereum.org/EIPS/eip-20
+https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/token/ERC20
+
+* Using some functions to connect to dexes
+approve(dexAddress,amount)
+
+transferFrom(traderaddress, dexaddress, amount)
+
